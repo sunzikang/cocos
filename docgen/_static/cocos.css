@@ -1,6 +1,6 @@
 /* background color for the column with 'Parameters:' and 'Returns:' */
 th {
-    background-color: #ccedff;
+    background-color: #AECDDE;
 }
 
 /* border's color for pre blocks, typicaly py code prefixed by '::'  */
@@ -13,7 +13,7 @@ pre {
 
 /* bg color for block with local TOC pointing to sections (body headers), example programming_guide/basic_concepts.html */
 div.topic {
-    background-color: #e5f6ff;
+    background-color: #F5F9FB;
 }
 
 /* bg for inline code when into a note block, by example ``name`` and :meth:`xyz` when into a note block */

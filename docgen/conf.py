@@ -143,27 +143,27 @@ html_theme_options = {
     "footerbgcolor"    : "#0074b3",
     "footertextcolor"  : "#ffffff",
 
-    "sidebarbgcolor"   : "#99dbff",
+    "sidebarbgcolor"   : "#00324D",
     "sidebarbtncolor"  : "#3c6e83",
-    "sidebartextcolor" : "#222222",
-    "sidebarlinkcolor" : "#7A3D99",
+    "sidebartextcolor" : "#F5FCFF",
+    "sidebarlinkcolor" : "#B2BDFB",
 
     "relbarbgcolor"    : "#0074b3",
     "relbartextcolor"  : "#ffffff",
     "relbarlinkcolor"  : "#ffffff",
 
-    "bgcolor"          : "#e5f6ff",
+    "bgcolor"          : "#F4F8FB",
     "textcolor"        : "#000000",
 
-    "headbgcolor"      : "#99dbff",
+    "headbgcolor"      : "#AECDDE",
     "headtextcolor"    : "#20435c",
     "headlinkcolor"    : "#c60f0f",
 
-    "linkcolor"        : "#7A3D99",
-    "visitedlinkcolor" : "#7A3D99",
+    "linkcolor"        : "#0921A2",
+    "visitedlinkcolor" : "#0921A2",
 
-    "codebgcolor"      : "#eaf8ff",
-    "codetextcolor"    : "#333333",
+    #"codebgcolor"      : "#FFFFFF",
+    "codetextcolor"    : "#111111",
 
     "bodyfont"         : "sans-serif",
 #    "headfont"         : ('Trebuchet MS', "sans-serif"}
